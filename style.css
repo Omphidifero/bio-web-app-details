@@ -1,0 +1,27 @@
+body { 
+ font-size: 10pt; 
+ background: #76A679;
+ color: black;
+ text-align: center;
+}
+
+.profile-img {
+  width: 30%;
+  border-radius: 30%;
+}
+
+h1 {
+  color: darkblue;
+}
+
+.btn {
+  display: block;
+  color: black;
+  padding: 10px;
+  background: whitesmoke;
+  margin: 16px;
+  box-shadow:  10px  10px  10px  lightblue;
+}
+
+
+
